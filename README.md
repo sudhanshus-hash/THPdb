@@ -10,6 +10,9 @@ Usmani, S. S., Bedi, G., Samuel, J. S., Singh, S., Kalra, S., Kumar, P., ... & R
 **THPdb: Database of FDA-approved peptide and protein therapeutics.** *PLOS ONE*, 12(7): e0181748. 
 [https://doi.org/10.1371/journal.pone.0181748](https://doi.org/10.1371/journal.pone.0181748)
 
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20072945
+
+
 ## About the Database
 
 THPdb was developed to provide the first single, freely available platform dedicated entirely to US-FDA approved protein and peptide therapeutics. It addresses the need for integrated data that was previously scattered across literature and disparate repositories.
