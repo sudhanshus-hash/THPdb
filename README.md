@@ -2,8 +2,7 @@
 
 Welcome to the official repository and documentation overview for **THPdb**, a manually curated repository of Food and Drug Administration (FDA) approved therapeutic peptides and proteins. This resource provides a comprehensive platform for researchers to explore clinical therapeutics, their drug variants, and their pharmacological profiles to assist in drug discovery.
 
-**Web Server:** [http://crdd.osdd.net/raghava/thpdb/](http://crdd.osdd.net/raghava/thpdb/)
-
+**Web Server:** https://webs.iiitd.edu.in/raghava/thpdb/
 ## Citation
 
 Usmani, S. S., Bedi, G., Samuel, J. S., Singh, S., Kalra, S., Kumar, P., ... & Raghava, G. P. S. (2017). 
